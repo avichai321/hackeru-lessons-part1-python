@@ -1,0 +1,2 @@
+first,last,username,password,status_login,points,block,admin
+admin,admin,admin,admin123,True,0,0,1
